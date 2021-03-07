@@ -8,7 +8,7 @@ Curated list of up to date filterlists, with minimal false positives.
 I use emoji's to help organize the list.
 
 - A ⭐ means that it's a filter I reccomend. 
-
+🛡
 - A 🟢 means it's compatible with AdGuard and uBlock Origin
 
 - A 🔴 means it's compatible with PiHole
