@@ -9,34 +9,34 @@ Curated list of up to date filterlists, with minimal false positives.
 
 # Filter Categories
 
-[Filters to Block Companies]
+[Filters to Block Companies](https://github.com/DevShubam/Filterlist-Collection/blob/main/filters/companies/Companies.md)
 
-[Whitelists]
+[Whitelists](https://github.com/DevShubam/Filterlist-Collection/blob/main/filters/whitelist.md)
 
-[Multiple Categories(Filterlists that block multiple things)]
+[Multiple Categories(Filterlists that block multiple things)](https://github.com/DevShubam/Filterlist-Collection/blob/main/filters/Multiple.md)
 
-[Cookies]
+[Cookies](https://github.com/DevShubam/Filterlist-Collection/blob/main/filters/Cookies.md)
 
-[Remove AdGuard Removal Warnings]
+[Remove AdGuard Removal Warnings](https://github.com/DevShubam/Filterlist-Collection/blob/main/filters/Anti%20Anti%20Adblock.md)
 
-[Annoyances]
+[Annoyances](https://github.com/DevShubam/Filterlist-Collection/blob/main/filters/Annoyances.md)
 
-[Ads]
+[Ads](https://github.com/DevShubam/Filterlist-Collection/blob/main/filters/Ads.md)
 
-[Trackers]
+[Trackers](https://github.com/DevShubam/Filterlist-Collection/blob/main/filters/Trackers.md)
 
-[Piracy / Torrent]
+[Piracy / Torrent](https://github.com/DevShubam/Filterlist-Collection/blob/main/filters/Piracy.md)
 
-[MALICOUS LINKS: Malware / AdWare / Phishing / ETC]
+[MALICOUS LINKS: Malware / AdWare / Phishing / ETC](https://github.com/DevShubam/Filterlist-Collection/blob/main/filters/Malicous.md)
 
-[Crypto Currency Miners]
+[Crypto Currency Miners](https://github.com/DevShubam/Filterlist-Collection/blob/main/filters/Crypto.md)
 
-[18+]
+[18+](https://github.com/DevShubam/Filterlist-Collection/blob/main/filters/18.md)
 
 [Gambling](https://github.com/DevShubam/Filterlist-Collection/blob/main/filters/Gambling.md#gambling-filterlists)
 
-[Fake News] 
+[Fake News](https://github.com/DevShubam/Filterlist-Collection/blob/main/filters/Fake%20News.md) 
 
-[Drugs]
+[Drugs](https://github.com/DevShubam/Filterlist-Collection/blob/main/filters/Drugs.md)
 
-["Anti"]
+["Anti"](https://github.com/DevShubam/Filterlist-Collection/blob/main/filters/Anti.md)
