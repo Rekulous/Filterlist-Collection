@@ -9,7 +9,7 @@ I use emoji's to help organize the list.
 
 - A ⭐ means that it's a filter I reccomend. 
 
-- A 🛡 means it's compatible with AdGuard and uBlock Origin ![](https://raw.githubusercontent.com/DevShubam/Filterlist-Collection/main/img/29x29.png)
+- A 🛡 means it's compatible with AdGuard and uBlock Origin ![](https://raw.githubusercontent.com/DevShubam/Filterlist-Collection/main/img/Icon-Notification.png)
 
 - A ![](https://raw.githubusercontent.com/DevShubam/Filterlist-Collection/main/img/Icon-Small.png) means it's compatible with PiHole
 
