@@ -8,6 +8,7 @@
 - [Disconnect's Simple Ad](https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt)
 - [AdAway](https://adaway.org/hosts.txt)
 - [Easylist Hosts](https://v.firebog.net/hosts/Easylist.txt)
+- [HostsVN](https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts)
 
 
 
