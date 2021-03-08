@@ -1,7 +1,7 @@
 # Filterlist-Collection
 Curated list of up to date filterlists, with minimal false positives.
 
-![Size](https://github-size-badge.herokuapp.com/:owner/:repo.svg)
+![Size](https://github-size-badge.herokuapp.com/:DevShubam/:https://github.com/DevShubam/Filterlist-Collection)
 
 
 ## Important Reading Points
