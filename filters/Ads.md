@@ -5,6 +5,7 @@
 - [Peter Lowe's Ad and tracking server list ](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext)
 - [Anudeep's Ad Blacklist](https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt)
 - [Developer Dan's Ads Blacklist](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt)
+- [Disconnect's Simple Ad](https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt)
 
 
 
